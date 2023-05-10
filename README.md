@@ -4,6 +4,7 @@ This repository contains the source code for AddCR: A Data-Driven Cartoon Remast
 # Requirements
 This code has been tested with Pytorch 1.8.1 and Cuda 11.1
 
+```
 · conda create -n addcr python==3.8.3
 
 · conda activate addcr
@@ -13,6 +14,7 @@ This code has been tested with Pytorch 1.8.1 and Cuda 11.1
 · pip install basicsr opencv-python numpy
 
 · python setup.py develop
+```
 
   
 
