@@ -16,5 +16,13 @@ This code has been tested with Pytorch 1.8.1 and Cuda 11.1
 · python setup.py develop
 ```
 
+# Demos
+You can demo a trained model on a sequence of frames
+
+```
+python test.py --cuda_num 0 --input /your-own-path/inputs/ --output /your-own-path/results/ --tmp /your-own-path/doriginal/
+
+```
+
   
 
