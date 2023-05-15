@@ -29,6 +29,7 @@ python test.py --cuda_num 0 --input /your-own-path/inputs/ --output /your-own-pa
 
 --output: the path of final output
   
-# TODO: Thanks for xintao 
+# References
+RealESRGAN: the code is modified from https://github.com/xinntao/Real-ESRGAN
 
 
